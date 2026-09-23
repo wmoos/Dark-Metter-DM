@@ -1,4 +1,4 @@
-# Dark Meter (DM) – Version 02 (EN)
+# Dark Metter (DM) – Version 02 (EN)
 **A Continuum–Geometric Interpretation of Dark‑Matter‑Like Phenomena**
 
 **Author:** Walter Moosbrugger  
