@@ -16,7 +16,7 @@
 
 ## Overview
 
-**Dark Meter (DM‑V02)** is the official reference version of the Dark‑Matter module within the *Monistic Continuum Model (MCM)*.  
+**Dark Metter (DM‑V02)** is the official reference version of the Dark‑Matter module within the *Monistic Continuum Model (MCM)*.  
 It describes dark‑matter‑like behaviour as an expression of **pre‑spatial stress and curvature geometry** inside a monistic medium.
 
 All observable phenomena are interpreted as **projections of bound and unbound geometries**, without relying on classical spacetime or particle concepts.
@@ -31,7 +31,7 @@ DM‑V02 refines the foundational ideas of V01 by introducing:
 
 ## Abstract
 
-Dark Meter (DM‑V02) interprets dark‑matter‑like behaviour as a natural consequence of the continuum’s internal geometry.  
+Dark Metter (DM‑V02) interprets dark‑matter‑like behaviour as a natural consequence of the continuum’s internal geometry.  
 It does not rely on particle hypotheses or field constructs. Instead, it describes:
 
 - **global stress redistribution** as the driver of large‑scale dynamics,  
